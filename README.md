@@ -1,3 +1,24 @@
+
+# 补充注意事项
+Ver 2609
+
+1. python 3.10
+
+2. 必须首先安装 git-lfs
+
+`sudo apt install git-lfs`
+
+然后，wav音频文件 git才是正确的。  
+`git clone https://github.com/NewComer00/expressive.git --depth 1`
+
+否则  
+`file reference.wav` 为 ASCII text
+
+3. 纯 cpu运行?  
+pip install -e ".[gui]"
+
+/////////////////////
+
 <p align="center">
   <img src="assets/splash/normal.png" width="50%" /> 
 </p>
