@@ -6,7 +6,6 @@ Ver 26.09
 ubuntu 22.04 24.04 + conda OK
 
 3. 必须首先安装 git-lfs
-
 `sudo apt install git-lfs`
 
 然后，wav音频文件 git才是正确的。  
@@ -15,7 +14,7 @@ ubuntu 22.04 24.04 + conda OK
 否则  
 `file reference.wav` 为 ASCII text
 
-3. 纯 cpu运行: OK    
+3. 纯 cpu运行: 8GB OK    
 pip install -e ".[gui]"  ?
 
 /////////////////////
