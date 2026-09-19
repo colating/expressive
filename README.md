@@ -1,10 +1,11 @@
 
-# 补充注意事项
-Ver 2609
+# 补充注意事项  
+Ver 26.09
 
-1. python 3.10
+1. python 3.10  
+ubuntu 22.04 26.04 OK
 
-2. 必须首先安装 git-lfs
+3. 必须首先安装 git-lfs
 
 `sudo apt install git-lfs`
 
@@ -18,6 +19,9 @@ Ver 2609
 pip install -e ".[gui]"
 
 /////////////////////
+
+Good job!
+
 
 <p align="center">
   <img src="assets/splash/normal.png" width="50%" /> 
