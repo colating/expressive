@@ -15,8 +15,8 @@ ubuntu 22.04 24.04 + conda OK
 否则  
 `file reference.wav` 为 ASCII text
 
-3. 纯 cpu运行?  
-pip install -e ".[gui]"
+3. 纯 cpu运行: OK    
+pip install -e ".[gui]"  ?
 
 /////////////////////
 
