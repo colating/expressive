@@ -3,7 +3,7 @@
 Ver 26.09
 
 1. python 3.10  
-ubuntu 22.04 26.04 OK
+ubuntu 22.04 24.04 OK
 
 3. 必须首先安装 git-lfs
 
@@ -21,6 +21,7 @@ pip install -e ".[gui]"
 /////////////////////
 
 Good job!
+
 
 
 <p align="center">
